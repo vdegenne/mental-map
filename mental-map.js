@@ -7698,7 +7698,7 @@
                 source = target;
                 this.drawPoint(target, opacity);
             }
-            console.log(this.points);
+            console.log(JSON.stringify(this.points));
         }
         clear() {
             this.points = [];
