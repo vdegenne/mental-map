@@ -135,7 +135,7 @@ export class MentalMap extends LitElement {
 
       this.drawPoint(target, opacity)
     }
-    console.log(this.points)
+    console.log(JSON.stringify(this.points))
   }
 
 
