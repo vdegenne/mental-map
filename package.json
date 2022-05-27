@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "paper": "^0.12.15"
-  },
   "devDependencies": {
     "@material/mwc-button": "^0.26.1",
     "@material/mwc-dialog": "^0.26.1",
