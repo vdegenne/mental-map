@@ -1,6 +1,2 @@
-node_modules/*
-!node_modules/paper
-node_modules/paper/*
-!node_modules/paper/dist
-node_modules/paper/dist/*
-!node_modules/paper/dist/paper-full.min.js
+node_modules
+!docs/node_modules

@@ -5,7 +5,7 @@ import typescript from "@rollup/plugin-typescript";
 export default {
   input: './src/main.ts',
   output: {
-    file: './mental-map.js', format: 'iife'
+    file: './docs/mental-map.js', format: 'iife'
   },
   plugins: [nodeResolve(), typescript()]
 }
